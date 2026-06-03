@@ -1,7 +1,7 @@
 from lambda_function import lambda_handler
 
 event = {
-    "name": "Sabitha"
+    "name": "Mercy"
 }
 
 output = lambda_handler(event, None)
